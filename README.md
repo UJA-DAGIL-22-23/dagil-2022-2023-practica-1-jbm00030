@@ -13,3 +13,6 @@ Estudiante de Ingenieria Informatica en la Universidad de Jaén.
 * **Web**: No disponible
 * **GitHub**: https://github.com/jbm00030
 * **Trello**: https://trello.com/b/ZLey89U2/pr%C3%A1ctica-1-ballester
+
+Captura de Pantalla del inicio - Trello: 
+<img src='/inicial.png' width='200px'>
