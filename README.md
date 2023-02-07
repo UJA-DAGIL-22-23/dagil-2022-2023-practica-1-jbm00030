@@ -12,4 +12,4 @@ Estudiante de Ingenieria Informatica en la Universidad de Jaén.
 * **Correo**: jbm00030@red.ujaen.es
 * **Web**: No disponible
 * **GitHub**: https://github.com/jbm00030
-* **Trello**: https://trello.com/vrivas_ujaen_es
+* **Trello**: https://trello.com/b/ZLey89U2/pr%C3%A1ctica-1-ballester
