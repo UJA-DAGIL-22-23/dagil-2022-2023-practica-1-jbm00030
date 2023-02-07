@@ -8,7 +8,7 @@ Tus tareas consisten en:
 ### José Ballester Marín
 <img src='/1.jpg' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
+Estudiante de Ingenieria Informatica en la Universidad de Jaén.
 * **Correo**: vrivas@ujaen.es
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
