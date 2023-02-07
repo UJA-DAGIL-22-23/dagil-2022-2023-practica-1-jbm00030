@@ -9,7 +9,7 @@ Tus tareas consisten en:
 <img src='/1.jpg' width='200px'>
 
 Estudiante de Ingenieria Informatica en la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
+* **Correo**: jbm00030@red.ujaen.es
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
