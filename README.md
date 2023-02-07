@@ -10,6 +10,6 @@ Tus tareas consisten en:
 
 Estudiante de Ingenieria Informatica en la Universidad de Jaén.
 * **Correo**: jbm00030@red.ujaen.es
-* **Web**: http://vrivas.es
+* **Web**: No disponible
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
