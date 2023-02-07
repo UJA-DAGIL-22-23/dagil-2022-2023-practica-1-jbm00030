@@ -15,4 +15,4 @@ Estudiante de Ingenieria Informatica en la Universidad de Jaén.
 * **Trello**: https://trello.com/b/ZLey89U2/pr%C3%A1ctica-1-ballester
 
 Captura de Pantalla del inicio - Trello: 
-<img src='/inicial.png' width='200px'>
+<img src='/inicial.PNG' width='200px'>
