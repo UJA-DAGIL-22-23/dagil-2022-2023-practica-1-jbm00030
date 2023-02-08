@@ -16,3 +16,11 @@ Estudiante de Ingenieria Informatica en la Universidad de Jaén.
 
 Captura de Pantalla del inicio - Trello: 
 <img src='/inicial.PNG' width='200px'>
+
+* **Usuario GitHub**: jbm00030
+
+Captura de Pantalla del perfil de GitHub: 
+<img src='/pgit.PNG' width='200px'>
+
+Captura de Pantalla del final - Trello: 
+<img src='/final.PNG' width='200px'>
